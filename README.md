@@ -39,7 +39,7 @@ pip install -r requirements.txt
 ### Usage 
 1. Clone this repository
 ```bash
-git clone https://github.com/abdulmunimjemal/ArtaiSpellChecker.git
+git clone https://github.com/Bisratasaye12/ArtaiSpellChecker.git
 cd ArtaiSpellChecker
 ```
 2. Run the spell checker
